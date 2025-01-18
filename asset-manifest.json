@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Health-AI/static/css/main.7203a7c8.css",
-    "main.js": "/Health-AI/static/js/main.567c702c.js",
+    "main.css": "/Health-AI/static/css/main.96055f8d.css",
+    "main.js": "/Health-AI/static/js/main.9d17e33e.js",
     "static/js/409.b270e672.chunk.js": "/Health-AI/static/js/409.b270e672.chunk.js",
     "static/media/female.glb": "/Health-AI/static/media/female.12317ff18da9cd09a60d.glb",
     "static/media/male.glb": "/Health-AI/static/media/male.9ee01b6d4bb2f45bd7a2.glb",
     "index.html": "/Health-AI/index.html",
-    "main.7203a7c8.css.map": "/Health-AI/static/css/main.7203a7c8.css.map",
-    "main.567c702c.js.map": "/Health-AI/static/js/main.567c702c.js.map",
+    "main.96055f8d.css.map": "/Health-AI/static/css/main.96055f8d.css.map",
+    "main.9d17e33e.js.map": "/Health-AI/static/js/main.9d17e33e.js.map",
     "409.b270e672.chunk.js.map": "/Health-AI/static/js/409.b270e672.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7203a7c8.css",
-    "static/js/main.567c702c.js"
+    "static/css/main.96055f8d.css",
+    "static/js/main.9d17e33e.js"
   ]
 }
